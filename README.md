@@ -30,3 +30,22 @@ project/
 
 ```bash
 pip install pandas scikit-learn
+Run the project:
+python main.py
+📊 Example Output
+Model Trained Successfully ✅
+Coefficient: 0.017
+Intercept: 6.89
+Mean Squared Error: 0.01
+R² Score: 0.98
+🎯 Goal
+
+The purpose of this project is to practice:
+
+Data preprocessing
+Regression models
+Model evaluation
+Machine Learning fundamentals
+👨‍💻 Author
+
+Created by Nour Elsayed
